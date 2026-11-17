@@ -1,7 +1,11 @@
+
 # TerraGuard
 ### India Landslide Research & Monitoring System
 
 TerraGuard is a research prototype for location-based landslide screening in India. It combines historical reported landslide events, weather and soil-moisture data, and a machine-learning model to generate an indicative screening score through an interactive map dashboard.
+
+<img width="1517" height="717" alt="Screenshot 2026-11-17 210922" src="https://github.com/user-attachments/assets/abc24cf1-632b-4157-8c25-2ade64be8fc8" />
+<img width="1182" height="680" alt="Screenshot 2026-11-17 210307" src="https://github.com/user-attachments/assets/22444a71-c525-4c12-ad78-e8b166307f5d" />
 
 ## Features
 
