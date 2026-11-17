@@ -6,7 +6,8 @@ services:
     ports:
       - "8000:8000"
     environment:
-      CORS_ORIGINS: http://localhost:5173,http://localhost:8080\n      TERRAGUARD_DATA_DIR: /app/data
+      CORS_ORIGINS: http://localhost:5173,http://localhost:8080
+      TERRAGUARD_DATA_DIR: /app/data
     volumes:
       - ./data:/app/data
       - ./backend/app/ml/artifacts:/app/app/ml/artifacts
